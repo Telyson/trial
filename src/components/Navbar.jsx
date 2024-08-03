@@ -1,6 +1,3 @@
-// import logo from "../assets/kevinRushLogo.png"
-import tedlogo1 from "../assets/tedlogo1.png"
-import ttlogo from "../assets/ttlogo.png"
 import talogo from "../assets/talogo.png"
 import { FaLinkedin } from "react-icons/fa"
 import { FaGithub } from "react-icons/fa"
